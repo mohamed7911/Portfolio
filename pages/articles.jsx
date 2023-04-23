@@ -28,55 +28,10 @@ export async function getStaticProps() {
 
   const data = [
     {
-      id:"dsadasd",
-      title:"Dsad",
-      cover_image:"https://imgur.com/kbGs6zH.png",
-      description:"DASdasd",
-      page_views_count:"0",
-      public_reactions_count:"0",
-      comments_count:"0"
-    },
-    {
-      id:"dsadasd",
-      title:"Dsad",
-      cover_image:"https://imgur.com/kbGs6zH.png",
-      description:"DASdasd",
-      page_views_count:"0",
-      public_reactions_count:"0",
-      comments_count:"0"
-    },
-    {
-      id:"dsadasd",
-      title:"Dsad",
-      cover_image:"https://imgur.com/kbGs6zH.png",
-      description:"DASdasd",
-      page_views_count:"0",
-      public_reactions_count:"0",
-      comments_count:"0"
-    },
-    {
-      id:"dsadasd",
-      title:"Dsad",
-      cover_image:"https://imgur.com/kbGs6zH.png",
-      description:"DASdasd",
-      page_views_count:"0",
-      public_reactions_count:"0",
-      comments_count:"0"
-    },
-    {
-      id:"dsadasd",
-      title:"Dsad",
-      cover_image:"https://imgur.com/kbGs6zH.png",
-      description:"DASdasd",
-      page_views_count:"0",
-      public_reactions_count:"0",
-      comments_count:"0"
-    },
-    {
-      id:"dsadasd",
-      title:"Dsad",
-      cover_image:"https://imgur.com/kbGs6zH.png",
-      description:"DASdasd",
+      id:"1",
+      title:"No articles just yet",
+      cover_image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fperson-wearing-red-hoodie-black-background-costume-dark-eerie-wallpaper-arfcc&psig=AOvVaw3GkXD7h8GZpUUJ0ojaphBd&ust=1682368935406000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiFvOjuwP4CFQAAAAAdAAAAABAJ",
+      description:"---",
       page_views_count:"0",
       public_reactions_count:"0",
       comments_count:"0"
