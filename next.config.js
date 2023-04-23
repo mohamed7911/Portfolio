@@ -6,6 +6,7 @@ const nextConfig = {
       "res.cloudinary.com",
       "avatars.githubusercontent.com",
       "imgur.com",
+      "c0.wallpaperflare.com",
     ],
   },
 };
