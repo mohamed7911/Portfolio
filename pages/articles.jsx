@@ -36,6 +36,33 @@ export async function getStaticProps() {
       public_reactions_count:"0",
       comments_count:"0"
     },
+        {
+      id:"2",
+      title:"Articles",
+      cover_image:"https://c0.wallpaperflare.com/preview/749/278/508/black-background-costume-dark-eerie.jpg",
+      description:"---",
+      page_views_count:"0",
+      public_reactions_count:"0",
+      comments_count:"0"
+    },
+        {
+      id:"3",
+      title:"Just",
+      cover_image:"https://c0.wallpaperflare.com/preview/749/278/508/black-background-costume-dark-eerie.jpg",
+      description:"---",
+      page_views_count:"0",
+      public_reactions_count:"0",
+      comments_count:"0"
+    },
+        {
+      id:"4",
+      title:"Yet",
+      cover_image:"https://c0.wallpaperflare.com/preview/749/278/508/black-background-costume-dark-eerie.jpg",
+      description:"---",
+      page_views_count:"0",
+      public_reactions_count:"0",
+      comments_count:"0"
+    },
   ]
 
   return {
