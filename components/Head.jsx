@@ -16,7 +16,7 @@ const CustomHead = ({ title }) => {
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
       />
-      <meta property="og:image" content="Screenshot (24).png" />
+      <meta property="og:image" content="Screenshot 2023-04-23 232949.png" />
       <meta property="og:url" content="----"/>
     </Head>
   );
