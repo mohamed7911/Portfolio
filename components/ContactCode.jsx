@@ -2,29 +2,24 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'MMM.me',
-    href: '---',
-  },
-  {
     social: 'email',
     link: 'mdalaa7911@gmail.com',
     href: 'mailto:mdalaa7911@gmail.com',
   },
   {
     social: 'github',
-    link: '---',
-    href: '---',
+    link: 'https://github.com/mohamed7911',
+    href: 'https://github.com/mohamed7911',
   },
   {
     social: 'linkedin',
     link: 'Mohamed Alaa',
-    href: '---',
+    href: 'https://www.linkedin.com/in/mohamed-alaa-b598b125b/',
   },
   {
     social: 'telegram',
     link: 'Mohamed Alaa',
-    href: '---',
+    href: 'https://t.me/mohamedalaa7911',
   },
 ];
 

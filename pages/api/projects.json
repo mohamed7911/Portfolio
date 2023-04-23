@@ -1,29 +1,68 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "----",
-    "demo": "https://driwwwle.com/"
+    "name": "Events App",
+    "image": "/7.PNG",
+    "description": "A Full Stack website where you can look up for events and register",
+    "tags": ["next", "html", "sass", "javaScript"],
+    "source_code": "https://github.com/mohamed7911/Events-App",
+    "demo": "https://events-app-flax.vercel.app/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "Ecommerce website",
+    "image": "/1.PNG",
+    "description": "E-commerce website",
+    "tags": ["react", "html","css","javaScript" ,"material-ui"],
+    "source_code": "https://github.com/mohamed7911/E-commerce-website",
+    "demo": "https://mohamed7911.github.io/E-commerce-website/"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
+    "name": "Tic-Tac-Toe",
+    "image": "/3.PNG",
+    "description": "You can play against another players or you can play aganist the Computer",
+    "tags": ["react","javaScript","html","css", "material-ui"],
+    "source_code": "https://github.com/mohamed7911/Tic-Tac-Toe",
+    "demo": "https://mohamed7911.github.io/Tic-Tac-Toe/"
+  }
+  ,
+  {
+    "id": 4,
+    "name": "Notes App",
+    "image": "/4.PNG",
     "description": "A food ordering platform for healthy and home-cooked meals",
     "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "---",
-    "demo": "https://healthyways.herokuapp.com/"
+    "source_code": "https://github.com/mohamed7911/Notes-App",
+    "demo": "https://mohamed7911.github.io/Notes-App/"
   }
-
+  ,
+  {
+    "id": 5,
+    "name": "To do list",
+    "image": "/5.PNG",
+    "description": "You can add chores and check the ones you have finished",
+    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
+    "source_code": "https://github.com/mohamed7911/Todolist",
+    "demo": "---"
+  }
+  ,
+  {
+    "id": 6,
+    "name": "Mobile Webiste",
+    "image": "/6.PNG",
+    "description": "Full Stack Mobile Website",
+    "tags": ["node", "mongodb","express","html","css","javaScript"],
+    "source_code": "https://github.com/mohamed7911/Mobwebsite",
+    "demo": "---"
+  }
+  ,
+  {
+    "id": 7,
+    "name": "PCB Cupid",
+    "image": "/2.PNG",
+    "description": "E-commerce website, you can rate products",
+    "tags": ["html", "css", "javaScript"],
+    "demo": "https://www.pcbcupid.com/"
+  }
 ]

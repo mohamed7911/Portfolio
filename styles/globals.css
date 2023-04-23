@@ -30,17 +30,17 @@
   background: rgba(67, 153, 52, 0.25);
 }
 
-.redux {
+.html {
   border: 0.1rem solid rgb(118, 74, 188);
 }
-.redux:hover {
+.html:hover {
   background: rgba(118, 74, 188, 0.25);
 }
 
-.razorpay {
+.sass {
   border: 0.1rem solid rgb(82, 143, 240);
 }
-.razorpay:hover {
+.sass:hover {
   background: rgba(82, 143, 240, 0.25);
 }
 
@@ -51,10 +51,10 @@
   background: rgba(25, 118, 210, 0.25);
 }
 
-.bulma {
+.javaScript {
   border: 0.1rem solid rgb(0, 209, 178);
 }
-.bulma:hover {
+.javaScript:hover {
   background: rgb(0, 209, 178, 0.25);
 }
 
@@ -65,23 +65,16 @@
   background: rgba(0, 112, 243, 0.25);
 }
 
-.tailwind {
+.css {
   border: 2px solid rgb(6, 182, 212);
 }
-.tailwind:hover {
+.css:hover {
   background: rgba(6, 182, 212, 0.25);
 }
 
-.react-query {
-  border: 2px solid rgb(255, 65, 84);
+.express {
+  border: 2px solid rgb(22, 114, 182);
 }
-.react-query:hover {
-  background: rgba(255, 65, 84, 0.25);
-}
-
-.css-modules {
-  border: 2px solid rgb(21, 114, 182);
-}
-.css-modules:hover {
-  background: rgba(21, 114, 182, 0.25);
+.express:hover {
+  background: rgba(22, 114, 182, 0.25);
 }

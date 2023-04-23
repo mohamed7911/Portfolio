@@ -10,8 +10,6 @@ const GithubPage = ({ repos, user }) => {
     level3: '#26a641',
     level4: '#39d353',
   };
-  
-  console.log(`dsadas ${user}`)
   return (
     <>
       <div className={styles.user}>
@@ -43,12 +41,12 @@ const GithubPage = ({ repos, user }) => {
 
 export async function getStaticProps() {
   const userRes = await fetch(
-    `https://api.github.com/users/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}`
+    `https://api.github.com/users/mohamed7911`
   );
   const user = await userRes.json();
 
   const repoRes = await fetch(
-    `https://api.github.com/users/${process.env.NEXT_PUBLIC_GITHUB_USERNAME}/repos?per_page=100`);
+    `https://api.github.com/users/mohamed7911/repos?per_page=100`);
   let repos = await repoRes.json();
   
 
