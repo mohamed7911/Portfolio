@@ -30,7 +30,7 @@ export async function getStaticProps() {
     {
       id:"1",
       title:"No articles just yet",
-      cover_image:"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fperson-wearing-red-hoodie-black-background-costume-dark-eerie-wallpaper-arfcc&psig=AOvVaw3GkXD7h8GZpUUJ0ojaphBd&ust=1682368935406000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiFvOjuwP4CFQAAAAAdAAAAABAJ",
+      cover_image:"https://c0.wallpaperflare.com/preview/749/278/508/black-background-costume-dark-eerie.jpg",
       description:"---",
       page_views_count:"0",
       public_reactions_count:"0",
